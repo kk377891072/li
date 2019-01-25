@@ -30,7 +30,10 @@ public class BaseDao {
 	
 	public static void main(String[] args) {
 		System.out.println("¶¥¶¥¶¥");
+		System.out.println("ÖÜÃÎ¾ıÄÔ¿ÇÌÛ");
 	}
+	
+	
 
 	// ÔöÉ¾¸Ä(update,insert,delete)
 	public String executeUpdate(String sql, Object... objects) {
