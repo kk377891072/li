@@ -28,6 +28,7 @@ public class BaseDao {
 		return conn;
 	}
 	
+
 	
 
 	// ÔöÉ¾¸Ä(update,insert,delete)
