@@ -27,6 +27,9 @@ public class BaseDao {
 		}
 		return conn;
 	}
+	
+
+	
 
 	// ÔöÉ¾¸Ä(update,insert,delete)
 	public String executeUpdate(String sql, Object... objects) {
